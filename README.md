@@ -24,8 +24,8 @@
   <div class="title">
     <!-- EDIT HERE -->
     <h3 class="STARDUST1"></h3>
-    <h1 class="STARDUST2">YÊU BÉ NHUNG NHẤT NÈ❤️</h1>
-    <h3 class="STARDUST3"></h3>
+    <h1 class="STARDUST2"></h1>
+    <h3 class="STARDUST3">YÊU BÉ NHUNG NHẤT NÈ❤️</h3>
     <img class="img" src="462557253_945322800849768_4746286218575231636_n.jpg" alt="JUNO_OKYO" />
     <canvas id="pinkboard"></canvas>
   </div>
