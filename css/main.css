@@ -67,6 +67,7 @@ a.white-mode:active:hover {
   line-height: 1;
   color: #ffffff;
   letter-spacing: 2px;
+  text-shadow: 0 0 10px #ff006c, 0 0 20px #ff006c, 0 0 30px #ff006c, 0 0 40px #ff417d, 0 0 70px #ff417d, 0 0 80px #ff417d, 0 0 100px #ff417d, 0 0 150px #ff417d;
 }
 
 /* 爱心css */
